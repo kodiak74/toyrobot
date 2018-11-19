@@ -1,0 +1,7 @@
+com/binarycube/toyrobot/command/Command.class
+com/binarycube/toyrobot/core/Location.class
+com/binarycube/toyrobot/core/Environment.class
+com/binarycube/toyrobot/core/Heading.class
+com/binarycube/toyrobot/core/Robot.class
+com/binarycube/toyrobot/command/CommandParser.class
+com/binarycube/toyrobot/command/CommandType.class
